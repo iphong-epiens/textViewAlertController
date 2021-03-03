@@ -1,0 +1,35 @@
+PODS:
+  - KMPlaceholderTextView (1.4.0)
+  - RxAlertController (5.0.0):
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - KMPlaceholderTextView
+  - RxAlertController
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - KMPlaceholderTextView
+    - RxAlertController
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+  RxAlertController: ef75925a2a002f0f1fd03378ddeceaa9c1c5558f
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: 3efa2575c8e194ee1f878f0b85238401fc7b9036
+
+COCOAPODS: 1.10.0

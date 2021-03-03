@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-textViewAlert/Pods-textViewAlert-frameworks.sh
+${BUILT_PRODUCTS_DIR}/KMPlaceholderTextView/KMPlaceholderTextView.framework
+${BUILT_PRODUCTS_DIR}/RxAlertController/RxAlertController.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework

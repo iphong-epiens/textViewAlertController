@@ -1,0 +1,6 @@
+framework module Pods_textViewAlert {
+  umbrella header "Pods-textViewAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
